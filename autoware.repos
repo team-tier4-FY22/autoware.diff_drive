@@ -78,7 +78,7 @@ repositories:
     version: main
   sensor_kit/sample_diff_drive_sensor_kit_launch:
     type: git
-    url: https://github.com/team-tier4-FY22/sample_diff_drive_sensor_kit_launch.git
+    url: git@github.com:eam-tier4-FY22/sample_diff_drive_sensor_kit_launch.git
     version: main
   # vehicle
   vehicle/sample_vehicle_launch:
@@ -87,7 +87,7 @@ repositories:
     version: main
   vehicle/sample_diff_drive_launch:
     type: git
-    url: https://github.com/team-tier4-FY22/sample_diff_drive_launch
+    url: git@github.com:team-tier4-FY22/sample_diff_drive_launch
     version: main
   vehicle/pacmod_interface:
     type: git
@@ -95,7 +95,7 @@ repositories:
     version: main
   vehicle/jw_interface:
     type: git
-    url: https://github.com/tier4/jw_interface.git
+    url: git@github.com:tier4/jw_interface.git
     version: tier4/universe
   # param
   param/autoware_individual_params:
