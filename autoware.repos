@@ -19,7 +19,7 @@ repositories:
   # universe
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
+    url: git@github.com:team-tier4-fy22/autoware.universe.fy22.git
     version: main
   universe/tmp/tier4_ad_api_adaptor:
     type: git
