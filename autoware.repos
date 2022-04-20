@@ -87,7 +87,7 @@ repositories:
     version: main
   vehicle/sample_diff_drive_launch:
     type: git
-    url: git@github.com:team-tier4-FY22/sample_diff_drive_launch
+    url: git@github.com:team-tier4-FY22/sample_diff_drive_launch.git
     version: main
   vehicle/pacmod_interface:
     type: git
