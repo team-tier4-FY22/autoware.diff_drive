@@ -1,4 +1,7 @@
-## Welcome to Autoware! 👋
+This repository is a fork of autoware.
+We aim to build a differential drive robot driven by Autoware!
+
+## Welcome to Autoware Diff-Drive! 👋
 
 ![Autoware_RViz](https://user-images.githubusercontent.com/63835446/158918717-58d6deaf-93fb-47f9-891d-e242b02cba7b.png)
 
