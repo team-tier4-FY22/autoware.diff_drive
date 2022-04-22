@@ -3,15 +3,15 @@ repositories:
   core/tmp/autoware_auto_msgs:
     type: git
     url: https://github.com/tier4/autoware_auto_msgs.git # TODO(Tier IV): Move to autowarefoundation/autoware_msgs
-    version: tier4/main
+    version: c8a5d2001da052137c08cdf9e8d75c1975f99b84
   core/autoware_msgs:
     type: git
     url: https://github.com/autowarefoundation/autoware_msgs.git
-    version: main
+    version: cf30f446dde3dfed200ed958dd6961df46cfc9b9
   core/autoware_common:
     type: git
     url: https://github.com/autowarefoundation/autoware_common.git
-    version: main
+    version: bce203a66db7c60913ebf2a11d92cea11807a132
   core/autoware.core:
     type: git
     url: https://github.com/autowarefoundation/autoware.core.git
@@ -24,11 +24,11 @@ repositories:
   universe/tmp/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
-    version: tier4/universe
+    version: d622332a21fe332c5381e30f74149b3117968cb2
   universe/extension_msgs/tier4_autoware_msgs:
     type: git
     url: https://github.com/tier4/tier4_autoware_msgs.git
-    version: tier4/universe
+    version: 2483378c48e03237d47d4566ee3470257e056fac
   universe/vendor/grid_map:
     type: git
     url: https://github.com/ANYbotics/grid_map.git
@@ -36,19 +36,19 @@ repositories:
   universe/vendor/muSSP:
     type: git
     url: https://github.com/tier4/muSSP.git
-    version: tier4/main
+    version: c79e98fd5e658f4f90c06d93472faa977bc873b9
   universe/vendor/ndt_omp:
     type: git
     url: https://github.com/tier4/ndt_omp.git
-    version: tier4/main
+    version: 7fa5fa727ea2b999da925d6ab7dfa1298af521e4
   universe/vendor/pointcloud_to_laserscan:
     type: git
     url: https://github.com/tier4/pointcloud_to_laserscan.git
-    version: tier4/main
+    version: 8057177eeb26a3fd29b6e363e8a9a90d5daf391b
   universe/vendor/topic_tools:
     type: git
     url: https://github.com/tier4/topic_tools.git
-    version: tier4/main
+    version: ac3af3357f009925d29c8979f7613bcf111e58c4
   # launcher
   launcher/autoware_launch:
     type: git
@@ -70,7 +70,7 @@ repositories:
   sensor_component/velodyne_vls:
     type: git
     url: https://github.com/tier4/velodyne_vls.git
-    version: tier4/universe
+    version: 0caabc7b501ad6b74efe1474666b962e2d7abf1e
   # sensor_kit
   sensor_kit/sample_sensor_kit_launch:
     type: git
@@ -78,7 +78,7 @@ repositories:
     version: main
   sensor_kit/sample_diff_drive_sensor_kit_launch:
     type: git
-    url: git@github.com:eam-tier4-FY22/sample_diff_drive_sensor_kit_launch.git
+    url: git@github.com:team-tier4-FY22/sample_diff_drive_sensor_kit_launch.git
     version: main
   # vehicle
   vehicle/sample_vehicle_launch:
@@ -96,9 +96,9 @@ repositories:
   vehicle/jw_interface:
     type: git
     url: git@github.com:tier4/jw_interface.git
-    version: tier4/universe
+    version: 8ce8280a3ba26f263a8816547297304df4a276b8
   # param
   param/autoware_individual_params:
     type: git
     url: https://github.com/autowarefoundation/autoware_individual_params.git
-    version: main
+    version: 095b72caba9705cc893c0ecb0cd7704eb2227b56
